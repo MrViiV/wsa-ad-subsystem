@@ -1,0 +1,73 @@
+{
+  "com.amazon.kindle": {
+    "Version": {
+      "Any": {
+        "EmulateTouchScrolling": "Disabled"
+      }
+    }
+  },
+  "com.amazon.venezia": {
+    "Version": {
+      "Any": {
+        "EmulateTouchScrolling": "Disabled",
+        "MinimumWindowSize": [ 720, 600 ]
+      }
+    }
+  },
+
+  "com.gameloft.android.AMAZ.GloftDMAS": {
+    "Version": {
+      "Any": {
+        "SendSwipesForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.kiloo.subwaysurf": {
+    "Version": {
+      "Any": {
+        "SendSwipesForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "mobi.abcmouse.academy_amz": {
+    "Version": {
+      "Any": {
+        "WindowResizeableOverride": "Disabled"
+      }
+    }
+  },
+
+  "com.outfit7.herodash.amazon": {
+    "Version": {
+      "Any": {
+        "SendSwipesForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.outfit7.talkingtomgoldrun": {
+    "Version": {
+      "Any": {
+        "SendSwipesForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.sega.sonic2017amazon": {
+    "Version": {
+      "Any": {
+        "SendSwipesForArrowKeys": "Enabled"
+      }
+    }
+  },
+
+  "com.yahoo.mobile.client.android.mail": {
+    "Version": {
+      "Any": {
+        "WindowResizeableOverride": "Disabled"
+      }
+    }
+  }
+}
